@@ -1,5 +1,5 @@
 type: flyingUnit
-name: Subslices
+name: Subslicer
 description: Rad
 speed: 0.5
 flying: true
