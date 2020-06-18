@@ -1,0 +1,21 @@
+name: Subslicer Factory
+description: Makes Subslicer units.
+type: UnitFactory
+unitType: subslicer
+size: 3
+produceTime: 350
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      thorium/5
+    ]
+  }
+}
+category: units
+research: subslicer-factory
+requirements: [
+  thorium/50
+  graphite/20
+  silicon/40
+]
