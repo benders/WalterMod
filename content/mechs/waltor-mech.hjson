@@ -1,5 +1,6 @@
 name: Waltor
 description: "Walter's Mech"
+flying: true
 drillPower: 2
 mineSpeed: 1.5
 itemCapacity: 80
