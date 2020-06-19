@@ -1,0 +1,28 @@
+name: Waltor
+description: "Walter's Mech"
+drillPower: 2
+mineSpeed: 1.5
+itemCapacity: 80
+speed: 0.36
+boostSpeed: 0.6
+mass: 4
+shake: 4
+weaponOffsetX: 1
+weaponOffsetY: 0
+engineColor: "feb380"
+health: 350
+buildSpeed: 1.5
+weapon: {
+  name: triangulator
+  length: 1.5
+  recoil: 4
+  reload: 38
+  shots: 4
+  spacing: 8
+  inaccuracy: 8
+  alternate: true
+  ejectEffect: "none"
+  shake: 3
+  bullet: "missileSwarm"
+  shootSound: "shootBig"
+}

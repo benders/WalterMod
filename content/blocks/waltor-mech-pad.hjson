@@ -1,0 +1,15 @@
+name: Waltor Mech Pad
+description: Transform into the Waltor mech.
+type: MechPad
+mech: waltor-mech
+size: 3
+consumes: {
+  power: 12.0
+}
+category: upgrade
+research: wraith-factory
+requirements: [
+  silicon/40
+  graphite/50
+  plastanium/30
+]
