@@ -2,5 +2,5 @@ name: "WalterMod"
 displayName: "[blue]Walter[] Mod" //what displays in the mod selection menu
 author: "Walter"
 description: "Walter's Mod"
-version: "0.04"
+version: "0.05"
 minGameVersion: "104"
