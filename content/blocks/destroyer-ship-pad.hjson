@@ -1,0 +1,15 @@
+name: Destroyer Ship Pad
+description: Transform into the Destroyer Ship
+type: MechPad
+mech: destroyer
+size: 4
+consumes: {
+  power: 12.0
+}
+category: upgrade
+research: wraith-factory
+requirements: [
+  silicon/40
+  graphite/50
+  plastanium/300
+]

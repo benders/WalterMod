@@ -21,9 +21,12 @@ weapon: {
   shake: 2
   bullet: "meltdownLaser"
   shootSound: "laserbig"
+  activeSound: "beam"
   rotateSpeed: 2
-  reload: 45
+  reload: 20
+  range: 190
   recoil: 4
   occlusion: 20
   rotate: true
+  shootDuration: 220
 }
