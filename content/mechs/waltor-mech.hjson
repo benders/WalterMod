@@ -4,7 +4,7 @@ flying: true
 drillPower: 2
 mineSpeed: 1.5
 itemCapacity: 80
-speed: 0.36
+speed: 0.32
 boostSpeed: 0.6
 mass: 4
 shake: 4
