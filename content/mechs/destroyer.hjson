@@ -1,0 +1,29 @@
+name: "Destroyer"
+description: "Destroyer"
+flying: false
+drillPower: 4
+mineSpeed: 1.5
+itemCapacity: 80
+speed: 0.32
+boostSpeed: 0.6
+mass: 3
+shake: 4
+weaponOffsetX: 1
+weaponOffsetY: 0
+engineColor: "feb380"
+health: 350
+buildSpeed: 1.5
+weapon: {
+  name: meltdownWeapon
+  inaccuracy: 0
+  alternate: false
+  ejectEffect: "none"
+  shake: 2
+  bullet: "meltdownLaser"
+  shootSound: "laserbig"
+  rotateSpeed: 2
+  reload: 45
+  recoil: 4
+  occlusion: 20
+  rotate: true
+}
